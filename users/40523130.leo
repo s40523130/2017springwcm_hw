@@ -35,7 +35,9 @@
 <v t="leo.20170622231850.1"><vh>開啟CMsimfiy伺服器影片</vh></v>
 <v t="leo.20170622225740.1"><vh>用vimeo</vh></v>
 <v t="leo.20170622231549.1"><vh>用vimeo建立Ubuntu</vh></v>
-<v t="leo.20170622232016.1"><vh>newHeadline</vh></v>
+<v t="leo.20170622232016.1"><vh>合併電腦</vh></v>
+<v t="leo.20170623005229.1"><vh>設定Ubuntu</vh></v>
+<v t="leo.20170623010237.1"><vh>安裝</vh></v>
 </v>
 </v>
 </v>
@@ -506,6 +508,22 @@ make.start()</t>
 &lt;iframe src="https://player.vimeo.com/video/214829786" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/214829786"&gt;開啟CMsimfiy伺服器&lt;/a&gt; from &lt;a href="https://vimeo.com/user58667333"&gt;陳士正&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20170622232016.1"></t>
+<t tx="leo.20170622232016.1">&lt;section&gt;
+    &lt;h2&gt;將兩台電腦合併成一台&lt;/h2&gt;&lt;br/&gt;
+    &lt;p&gt;把電池拔掉再把還原卡拔掉再把電池裝回去，將兩個4G的RAM合併在一個電腦，再將兩個硬碟合併在一個電腦&lt;/p&gt;
+&lt;a href="http://imgur.com/2uHGQQJ"&gt;&lt;img src="http://i.imgur.com/2uHGQQJ.jpg"width="200" height="200" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;a href="http://imgur.com/JUzYAdt"&gt;&lt;img src="http://i.imgur.com/JUzYAdt.jpg"width="200" height="200" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20170623005229.1">&lt;section&gt;
+    &lt;h2&gt;Ubuntu初始設定&lt;/h2&gt;&lt;br/&gt;
+    &lt;p&gt;開始設定Ubuntu須設定三個
+    第一個：伺服需設成第一個
+    第二個：設定電腦在斷電之後，在復電時能自動開機
+    第三個：設定在側板打開時能繼續操作，不會停住&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20170623010237.1">&lt;section&gt;
+    &lt;h2&gt;實體電腦練習&lt;/h2&gt;&lt;br/&gt;
+    &lt;p&gt;先更新Ubuntu在安裝Ubuntu，設定Putty利用Putty進行遠端連線裝上Fossil其中accept = :::443是讓他自動讀取IP位置，而sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout localhost.key -out localhost.crt不確定要在哪個資料夾底下執行這個指令建立localhost.key和localhost.crt最後再疊一個CMsimfiy&lt;/p&gt;
+    &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
