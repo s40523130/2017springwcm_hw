@@ -4,7 +4,12 @@
 &lt;p&gt;開啟SciTE編輯start.bat找到python.exe開啟之後再讀取launchLeo.py然後在哪裡&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/214636780" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/214636780"&gt;自行開啟Leo&lt;/a&gt; from &lt;a href="https://vimeo.com/user58667333"&gt;陳士正&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="Leo"></category><category term="python"></category></entry><entry><title>開啟CMsimfiy伺服器</title><link href="./kai-qi-cmsimfiysi-fu-qi.html" rel="alternate"></link><published>2017-04-25T11:00:00+08:00</published><updated>2017-04-25T11:00:00+08:00</updated><author><name>40523130</name></author><id>tag:,2017-04-25:./kai-qi-cmsimfiysi-fu-qi.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214636780"&gt;自行開啟Leo&lt;/a&gt; from &lt;a href="https://vimeo.com/user58667333"&gt;陳士正&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="Leo"></category><category term="python"></category></entry><entry><title>fossil clone</title><link href="./fossil-clone.html" rel="alternate"></link><published>2017-04-25T11:00:00+08:00</published><updated>2017-04-25T11:00:00+08:00</updated><author><name>40523130</name></author><id>tag:,2017-04-25:./fossil-clone.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;先進入tmp的資料夾建立40523130名稱的資料夾在進入40523130的資料夾在下fossil clon httpa://demo@想要clone的連結 40523130.fossil在建立一個資料夾123進入123的資料夾在下fossil open ./../40523130.fossil再把想要新增的東西丟到123裡面在下fossil add.再給訊息fossil commit -m "    "&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/223133962" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/223133962"&gt;fossil clone&lt;/a&gt; from &lt;a href="https://vimeo.com/user58667333"&gt;陳士正&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="python"></category></entry><entry><title>開啟CMsimfiy伺服器</title><link href="./kai-qi-cmsimfiysi-fu-qi.html" rel="alternate"></link><published>2017-04-25T11:00:00+08:00</published><updated>2017-04-25T11:00:00+08:00</updated><author><name>40523130</name></author><id>tag:,2017-04-25:./kai-qi-cmsimfiysi-fu-qi.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;先ipconfig找到現在所使用的IP,再找到wsgi.py的檔案將它丟到SciTE編輯裡面的IP改成現在使用的IP,再用python讀wsgi.py如果要關掉就按ctrl+C&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/214829786" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
