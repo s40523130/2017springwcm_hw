@@ -14,7 +14,12 @@
 &lt;p&gt;先ipconfig找到現在所使用的IP,再找到wsgi.py的檔案將它丟到SciTE編輯裡面的IP改成現在使用的IP,再用python讀wsgi.py如果要關掉就按ctrl+C&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/214829786" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/214829786"&gt;開啟CMsimfiy伺服器&lt;/a&gt; from &lt;a href="https://vimeo.com/user58667333"&gt;陳士正&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="python"></category></entry><entry><title>自製網路線</title><link href="./zi-zhi-wang-lu-xian.html" rel="alternate"></link><published>2017-04-25T11:00:00+08:00</published><updated>2017-04-25T11:00:00+08:00</updated><author><name>40523130</name></author><id>tag:,2017-04-25:./zi-zhi-wang-lu-xian.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214829786"&gt;開啟CMsimfiy伺服器&lt;/a&gt; from &lt;a href="https://vimeo.com/user58667333"&gt;陳士正&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="python"></category></entry><entry><title>用putty和遠端的伺服器進行連線</title><link href="./yong-puttyhe-yuan-duan-de-si-fu-qi-jin-xing-lian-xian.html" rel="alternate"></link><published>2017-04-25T11:00:00+08:00</published><updated>2017-04-25T11:00:00+08:00</updated><author><name>40523130</name></author><id>tag:,2017-04-25:./yong-puttyhe-yuan-duan-de-si-fu-qi-jin-xing-lian-xian.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;先點XLaunch.exe完成後，點putty.exe名稱是我們小組wcmg7.kmol.info再點proxy的SSH連到老師的proxy.kmol.info3128打開後他就會送key過來&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/223300231" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/223300231"&gt;用putty和遠端的伺服器進行連線&lt;/a&gt; from &lt;a href="https://vimeo.com/user58667333"&gt;陳士正&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="python"></category></entry><entry><title>自製網路線</title><link href="./zi-zhi-wang-lu-xian.html" rel="alternate"></link><published>2017-04-25T11:00:00+08:00</published><updated>2017-04-25T11:00:00+08:00</updated><author><name>40523130</name></author><id>tag:,2017-04-25:./zi-zhi-wang-lu-xian.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;先準備好8蕊網路線 RJ-45接頭和剪刀還有壓線鉗&lt;/p&gt;
 &lt;p&gt;用剪刀將網路線外皮剝除,之後將雙絞線進行分類,兩端的網路接頭皆為T568B為一般傳輸用網路線,T568B配線顏色順序為白橙、橙、白綠、藍、白藍、綠、白棕、棕再將前端不整齊的部分修剪整齊套入RJ45接頭用壓線鉗壓僅完成壓線
